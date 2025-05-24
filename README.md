@@ -21,7 +21,7 @@ With experience across sales, finance, and customer service, I help businesses s
 **Carried out Marketing Campaign Via Phone Call Analysis.
 Background
 .**
-![image](1 anietie etuk data analytics car project.jpeg)
+![image](Demographic  Analysis.PNG)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
