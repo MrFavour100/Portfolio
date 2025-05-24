@@ -23,6 +23,9 @@ Background
 .**
 ![image](Demographic  Analysis.PNG)
 
+<a href="A Portuguese Bank Cleaned Data.xlsx">Download the Report here (pdf file)</a>
+A Portuguese Bank Cleaned Data.xlsx
+<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
