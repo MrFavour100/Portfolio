@@ -25,39 +25,4 @@ Background
 
 <a href="A Portuguese Bank Cleaned Data.xlsx">Download the Report here (pdf file)</a>
 A Portuguese Bank Cleaned Data.xlsx
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
-
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
-
-
-## CONTACT DETAILS
-
-*Let’s connect and see how we can make a difference together!*
-<table>
-  <tbody>
-    <tr>
-      <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
-    </tr>
-    <tr>
-      <td>📞</td>
-      <td>(234) 816-763-7212</td>
-    </tr>
-    <tr>
-      <td>📍</td>
-      <td>PH, Nigeria</td>
-    </tr>
-    <tr>
-      <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
-    </tr>
-    <tr>
-      <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
-    </tr>
-    <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
-    </tr>
-  </tbody>
-</table>
+<a href="Pillar Bank Project Documentation.pdf">Download the Report here (pdf file)</a>
