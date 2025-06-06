@@ -27,4 +27,4 @@ Background.**
 <a href="A Portuguese Bank Cleaned Data.xlsx">Download the Report here (pdf file)</a>
 A Portuguese Bank Cleaned Data.xlsx
 
-<a href="Pillar Bank Project Documentation.pdf">Download the Report here (pdf file)</a>
+<a href="Pillar Bank Project Documentation.pdf">Download the Report here (pdf file)</a> Pillar Bank Project Documentation
