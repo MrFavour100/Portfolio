@@ -10,7 +10,8 @@ With experience across sales, finance, and customer service, I help businesses s
 **Data Analyst (intern)**
 At Vital Global Links Autos Limited, i provide the following services for the company:
 
-**-✅Data cleaning and transformation.** 
+**-✅Data cleaning and transformation.**
+
 **-✅Analyzing datasets to provide insights that will improve and drive business decisions.**
 
 <!--Section 2: List 3-4 key projects-->
