@@ -7,8 +7,8 @@ With experience across sales, finance, and customer service, I help businesses s
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-**Data Analyst (intern).**
-*At Vital Global Links Autos Limited, i provide the following services for the company:
+**Data Analyst (intern)**
+At Vital Global Links Autos Limited, i provide the following services for the company:
 
 **-✅Data cleaning and transformation.** 
 **-✅Analyzing datasets to provide insights that will improve and drive business decisions.**
@@ -19,10 +19,11 @@ With experience across sales, finance, and customer service, I help businesses s
 *A glimpse of some of the projects I've been working on.*
 
 **Carried out Marketing Campaign Via Phone Call Analysis.
-Background
-.**
+Background.**
+
 ![image](Demographic  Analysis.PNG)
 
 <a href="A Portuguese Bank Cleaned Data.xlsx">Download the Report here (pdf file)</a>
 A Portuguese Bank Cleaned Data.xlsx
+
 <a href="Pillar Bank Project Documentation.pdf">Download the Report here (pdf file)</a>
